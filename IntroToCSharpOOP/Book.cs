@@ -27,6 +27,9 @@ namespace IntroToCSharpOOP
             this.pages = pages;
         }
 
-    
+        public override string ToString()
+        {
+            return $"[{this.title} + {this.description} + {this.author} + {this.pages}]";
+        }
     }
 }
