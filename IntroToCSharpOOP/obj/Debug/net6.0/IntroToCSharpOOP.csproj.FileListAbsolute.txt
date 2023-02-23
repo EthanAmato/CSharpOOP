@@ -1,0 +1,15 @@
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.AssemblyInfo.cs
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\bin\Debug\net6.0\IntroToCSharpOOP.exe
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\bin\Debug\net6.0\IntroToCSharpOOP.deps.json
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\bin\Debug\net6.0\IntroToCSharpOOP.runtimeconfig.json
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\bin\Debug\net6.0\IntroToCSharpOOP.dll
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\bin\Debug\net6.0\IntroToCSharpOOP.pdb
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.dll
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\refint\IntroToCSharpOOP.dll
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.pdb
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\IntroToCSharpOOP.genruntimeconfig.cache
+C:\Users\ethan\Desktop\Code Projects\CSharp\IntroToCSharpOOP\IntroToCSharpOOP\obj\Debug\net6.0\ref\IntroToCSharpOOP.dll
